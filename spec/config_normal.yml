@@ -1,0 +1,8 @@
+server:
+  host: '0.0.0.0'
+  role: 'user'
+  ports: [8080, 8089]
+8080: http
+8089: https
+
+80http: 'http://localhost:8080'
